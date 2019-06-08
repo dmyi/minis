@@ -13,4 +13,7 @@
   <view class="hello">
     hello minis
   </view>
+
+  <view>3.知识点3</view>
+  <view>你好，小程序！</view>
 </view>

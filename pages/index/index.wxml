@@ -13,4 +13,6 @@
   <view class="hello">
     hello minis
   </view>
+
+  <view>2.知识点2</view>
 </view>
